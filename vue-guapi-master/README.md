@@ -1,8 +1,8 @@
 # vue-book
 
-代码为实习时写的觉得不错点个star~·~ wx => 1635942033 
+代码为实习时写的觉得不错点个sta〜·〜QQ => 2892337649
 
-## 技术栈
+##技术栈
 ```
 vue vue-cli3 vue-router vuex es6 webpack axios sass mint-ui javaScript
 
