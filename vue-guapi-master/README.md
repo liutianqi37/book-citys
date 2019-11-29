@@ -8,11 +8,6 @@ vue vue-cli3 vue-router vuex es6 webpack axios sass mint-ui javaScript
 
 ```
 
-## 源码地址
-
-[https://github.com/zgsnbtl/vue-guapi](https://github.com/zgsnbtl/vue-guapi)
-
-
 ## 访问地址
 
 [http://www.wj007.top/book/index.html](http://www.wj007.top/book/index.html)
